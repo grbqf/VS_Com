@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VS2022\\test_2026\\test_8_24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F33BAF-C3E9-4971-BADD-719CFB029758}|test_8_24.vcxproj|D:\\Code\\VS2022\\test_2026\\test_8_24\\tset2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F33BAF-C3E9-4971-BADD-719CFB029758}|test_8_24.vcxproj|solutionrelative:tset2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F33BAF-C3E9-4971-BADD-719CFB029758}|test_8_24.vcxproj|D:\\Code\\VS2022\\test_2026\\test_8_24\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F33BAF-C3E9-4971-BADD-719CFB029758}|test_8_24.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F33BAF-C3E9-4971-BADD-719CFB029758}|test_8_24.vcxproj|D:\\Code\\VS2022\\test_2026\\test_8_24\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F33BAF-C3E9-4971-BADD-719CFB029758}|test_8_24.vcxproj|solutionrelative:test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F33BAF-C3E9-4971-BADD-719CFB029758}|test_8_24.vcxproj|D:\\Code\\VS2022\\test_2026\\test_8_24\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F33BAF-C3E9-4971-BADD-719CFB029758}|test_8_24.vcxproj|solutionrelative:add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tset2.c",
+              "DocumentMoniker": "D:\\Code\\VS2022\\test_2026\\test_8_24\\tset2.c",
+              "RelativeDocumentMoniker": "tset2.c",
+              "ToolTip": "D:\\Code\\VS2022\\test_2026\\test_8_24\\tset2.c",
+              "RelativeToolTip": "tset2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-24T03:09:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test1.c",
+              "DocumentMoniker": "D:\\Code\\VS2022\\test_2026\\test_8_24\\test1.c",
+              "RelativeDocumentMoniker": "test1.c",
+              "ToolTip": "D:\\Code\\VS2022\\test_2026\\test_8_24\\test1.c",
+              "RelativeToolTip": "test1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-24T03:06:40.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "add.c",
+              "DocumentMoniker": "D:\\Code\\VS2022\\test_2026\\test_8_24\\add.c",
+              "RelativeDocumentMoniker": "add.c",
+              "ToolTip": "D:\\Code\\VS2022\\test_2026\\test_8_24\\add.c",
+              "RelativeToolTip": "add.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-24T03:04:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\Code\\VS2022\\test_2026\\test_8_24\\test.c",
+              "RelativeDocumentMoniker": "test.c",
+              "ToolTip": "D:\\Code\\VS2022\\test_2026\\test_8_24\\test.c",
+              "RelativeToolTip": "test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-24T02:51:55.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

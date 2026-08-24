@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snack", "Snack\Snack.vcxproj", "{A32C2D1A-BB0D-464C-8726-22A18E92FDB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32C2D1A-BB0D-464C-8726-22A18E92FDB9}.Debug|x64.ActiveCfg = Debug|x64
+		{A32C2D1A-BB0D-464C-8726-22A18E92FDB9}.Debug|x64.Build.0 = Debug|x64
+		{A32C2D1A-BB0D-464C-8726-22A18E92FDB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{A32C2D1A-BB0D-464C-8726-22A18E92FDB9}.Debug|x86.Build.0 = Debug|Win32
+		{A32C2D1A-BB0D-464C-8726-22A18E92FDB9}.Release|x64.ActiveCfg = Release|x64
+		{A32C2D1A-BB0D-464C-8726-22A18E92FDB9}.Release|x64.Build.0 = Release|x64
+		{A32C2D1A-BB0D-464C-8726-22A18E92FDB9}.Release|x86.ActiveCfg = Release|Win32
+		{A32C2D1A-BB0D-464C-8726-22A18E92FDB9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F695C8B5-7664-4545-90F0-86D7AD3791BA}
+	EndGlobalSection
+EndGlobal
