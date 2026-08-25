@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "test_8_25\\x64\\Debug\\test,c.obj",
+            "outputs": [
+                "test_8_25\\x64\\Debug\\test,c.cpp.obj.dt.module.json",
+                "test_8_25\\x64\\Debug\\test,c.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
