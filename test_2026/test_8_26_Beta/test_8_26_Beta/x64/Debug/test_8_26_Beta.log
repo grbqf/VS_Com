@@ -1,0 +1,14 @@
+﻿  test.c
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(27,6): warning C4091: “ ”: 没有声明变量时忽略“char”的左侧
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(28,5): warning C4091: “ ”: 没有声明变量时忽略“int”的左侧
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(29,7): warning C4091: “ ”: 没有声明变量时忽略“short”的左侧
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(30,6): warning C4091: “ ”: 没有声明变量时忽略“long”的左侧
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(31,12): warning C4091: “ ”: 没有声明变量时忽略“int”的左侧
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(32,14): warning C4091: “ ”: 没有声明变量时忽略“unsigned int”的左侧
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(33,7): warning C4091: “ ”: 没有声明变量时忽略“float”的左侧
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(34,8): warning C4091: “ ”: 没有声明变量时忽略“double”的左侧
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(35,13): warning C4091: “ ”: 没有声明变量时忽略“long double”的左侧
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(36,7): warning C4091: “ ”: 没有声明变量时忽略“bool”的左侧
+D:\Code\VS_Com\test_2026\test_8_26_Beta\test_8_26_Beta\test.c(37,6): warning C4091: “ ”: 没有声明变量时忽略“bool”的左侧
+  test_8_26_Beta.vcxproj -> D:\Code\VS_Com\test_2026\test_8_26_Beta\x64\Debug\test_8_26_Beta.exe
