@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\apps\\vs_community\\2026\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\apps\\vs_community\\2026\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "d:\\apps\\vs_community\\2026\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "d:\\apps\\vs_community\\2026\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

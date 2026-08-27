@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VS_Com\\test_2026\\test_8_27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4CDA35-502E-4F7E-B2CB-3FE9B0214E4A}|test_8_27\\test_8_27.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_8_27\\test_8_27\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B4CDA35-502E-4F7E-B2CB-3FE9B0214E4A}|test_8_27\\test_8_27.vcxproj|solutionrelative:test_8_27\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4CDA35-502E-4F7E-B2CB-3FE9B0214E4A}|test_8_27\\test_8_27.vcxproj|D:\\APPS\\VS_COMMUNITY\\2026\\VC\\TOOLS\\MSVC\\14.51.36231\\INCLUDE\\LIMITS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "limits.h",
+              "DocumentMoniker": "D:\\Apps\\VS_Community\\2026\\VC\\Tools\\MSVC\\14.51.36231\\include\\limits.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Apps\\VS_Community\\2026\\VC\\Tools\\MSVC\\14.51.36231\\include\\limits.h",
+              "ToolTip": "D:\\Apps\\VS_Community\\2026\\VC\\Tools\\MSVC\\14.51.36231\\include\\limits.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Apps\\VS_Community\\2026\\VC\\Tools\\MSVC\\14.51.36231\\include\\limits.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-27T06:47:49.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_8_27\\test_8_27\\test.c",
+              "RelativeDocumentMoniker": "test_8_27\\test.c",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_8_27\\test_8_27\\test.c",
+              "RelativeToolTip": "test_8_27\\test.c",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-27T06:19:07.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
