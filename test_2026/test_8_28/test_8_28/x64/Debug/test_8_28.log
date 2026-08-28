@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Code\VS_Com\test_2026\test_8_28\test_8_28\test.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Code\VS_Com\test_2026\test_8_28\test_8_28\test.c(463,1): error C1071: 在注释中遇到意外的文件结束
