@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+  正在生成代码...
+D:\Code\VS_Com\test_2026\mine_sweeper.c\mine_sweeper.c\test.c(58,2): warning C4098: “test”:“void”函数返回值
+  mine_sweeper.c.vcxproj -> D:\Code\VS_Com\test_2026\mine_sweeper.c\x64\Debug\mine_sweeper.c.exe

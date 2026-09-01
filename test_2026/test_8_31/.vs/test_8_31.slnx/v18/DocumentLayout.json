@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VS_Com\\test_2026\\test_8_31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{451D1C0E-24F4-4932-AFDF-DB18338857E5}|test_8_31\\test_8_31.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_8_31\\test_8_31\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{451D1C0E-24F4-4932-AFDF-DB18338857E5}|test_8_31\\test_8_31.vcxproj|solutionrelative:test_8_31\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451D1C0E-24F4-4932-AFDF-DB18338857E5}|test_8_31\\test_8_31.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_8_31\\test_8_31\\day.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{451D1C0E-24F4-4932-AFDF-DB18338857E5}|test_8_31\\test_8_31.vcxproj|solutionrelative:test_8_31\\day.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451D1C0E-24F4-4932-AFDF-DB18338857E5}|test_8_31\\test_8_31.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_8_31\\test_8_31\\day.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{451D1C0E-24F4-4932-AFDF-DB18338857E5}|test_8_31\\test_8_31.vcxproj|solutionrelative:test_8_31\\day.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "day.h",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_8_31\\test_8_31\\day.h",
+              "RelativeDocumentMoniker": "test_8_31\\day.h",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_8_31\\test_8_31\\day.h",
+              "RelativeToolTip": "test_8_31\\day.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-31T07:58:04.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "day.c",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_8_31\\test_8_31\\day.c",
+              "RelativeDocumentMoniker": "test_8_31\\day.c",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_8_31\\test_8_31\\day.c",
+              "RelativeToolTip": "test_8_31\\day.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-31T07:57:53.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_8_31\\test_8_31\\test.c",
+              "RelativeDocumentMoniker": "test_8_31\\test.c",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_8_31\\test_8_31\\test.c",
+              "RelativeToolTip": "test_8_31\\test.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-31T03:28:58.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
