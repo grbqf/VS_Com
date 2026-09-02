@@ -27,4 +27,3 @@ void Expand_blank();
 
 //统计周围雷个数
 int Get_mine_count();
-int Get_mine_count();

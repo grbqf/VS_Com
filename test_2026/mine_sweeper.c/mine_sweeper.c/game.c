@@ -48,7 +48,7 @@ void Set_mine(char chess[ROWS][COLS], int row, int col,int count)
 	}
 }
 
-int Get_mine_count(char chess[ROWS][COLS], int x, int y)
+int Get_mine_count(char chess_in[ROWS][COLS], int x, int y)
 {
 	int i = 0;
 	int count = 0;
@@ -57,13 +57,35 @@ int Get_mine_count(char chess[ROWS][COLS], int x, int y)
 		int j = 0;
 		for (j = y - 1; j <= y + 1; j++)
 		{
-			count += chess[i][j] - '0';
+			count += chess_in[i][j] - '0';
 		}
 	}
 	return count;
 }
 
+void Expand_blank(char Chess_in[ROWS][COLS], char Chess_out[ROWS][COLS], int x, int y,int* win)
+{
 
+	if (x > ROW || x < 1 || y > COL || y < 1 || Chess_out[x][y] != '*')
+	{
+		return;
+	}
+	int count = 0;
+	count = Get_mine_count(Chess_in, x, y);
+	Chess_out[x][y] = count + '0';
+	(*win)++;
+	if (0 == count)
+	{
+		for (int i = x - 1; i <= x + 1; i++)
+		{
+			for (int j = y - 1; j <= y + 1; j++)
+			{
+				// 递归调用展开空白区域
+				Expand_blank(Chess_in, Chess_out, i, j, win);
+			}
+		}
+	}
+}
 
 void Find_mine(char Chess_in[ROWS][COLS], char Chess_out[ROWS][COLS], int row, int col)
 {
@@ -84,8 +106,10 @@ void Find_mine(char Chess_in[ROWS][COLS], char Chess_out[ROWS][COLS], int row, i
 			}
 			else
 			{
-				int count = Get_mine_count(Chess_in, x, y);
-				Chess_out[x][y] = count + '0';
+
+				//int count = Get_mine_count(Chess_in, x, y);
+				//Chess_out[x][y] = count + '0';
+				Expand_blank(Chess_in, Chess_out, x, y, &win);
 				Print_chess(Chess_out, ROW, COL);
 				win++;
 			}

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Code\\VS_Com\\test_2026\\mine_sweeper.c\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83513C81-3F6A-4482-9447-53E582B4ED0B}|mine_sweeper.c\\mine_sweeper.c.vcxproj|D:\\Code\\VS_Com\\test_2026\\mine_sweeper.c\\mine_sweeper.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83513C81-3F6A-4482-9447-53E582B4ED0B}|mine_sweeper.c\\mine_sweeper.c.vcxproj|solutionrelative:mine_sweeper.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83513C81-3F6A-4482-9447-53E582B4ED0B}|mine_sweeper.c\\mine_sweeper.c.vcxproj|D:\\Code\\VS_Com\\test_2026\\mine_sweeper.c\\mine_sweeper.c\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{83513C81-3F6A-4482-9447-53E582B4ED0B}|mine_sweeper.c\\mine_sweeper.c.vcxproj|solutionrelative:mine_sweeper.c\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83513C81-3F6A-4482-9447-53E582B4ED0B}|mine_sweeper.c\\mine_sweeper.c.vcxproj|D:\\Code\\VS_Com\\test_2026\\mine_sweeper.c\\mine_sweeper.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83513C81-3F6A-4482-9447-53E582B4ED0B}|mine_sweeper.c\\mine_sweeper.c.vcxproj|solutionrelative:mine_sweeper.c\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83513C81-3F6A-4482-9447-53E582B4ED0B}|mine_sweeper.c\\mine_sweeper.c.vcxproj|D:\\Code\\VS_Com\\test_2026\\mine_sweeper.c\\mine_sweeper.c\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "mine_sweeper.c\\game.h",
               "ToolTip": "D:\\Code\\VS_Com\\test_2026\\mine_sweeper.c\\mine_sweeper.c\\game.h",
               "RelativeToolTip": "mine_sweeper.c\\game.h",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwB0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wBwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-08-31T14:44:23.696Z",
               "IsPinned": true,
@@ -40,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "game.c",
               "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\mine_sweeper.c\\mine_sweeper.c\\game.c",
               "RelativeDocumentMoniker": "mine_sweeper.c\\game.c",
               "ToolTip": "D:\\Code\\VS_Com\\test_2026\\mine_sweeper.c\\mine_sweeper.c\\game.c",
               "RelativeToolTip": "mine_sweeper.c\\game.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAA8wGoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-08-31T14:44:10.58Z",
               "IsPinned": true,
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "test.c",
               "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\mine_sweeper.c\\mine_sweeper.c\\test.c",
               "RelativeDocumentMoniker": "mine_sweeper.c\\test.c",
               "ToolTip": "D:\\Code\\VS_Com\\test_2026\\mine_sweeper.c\\mine_sweeper.c\\test.c",
               "RelativeToolTip": "mine_sweeper.c\\test.c",
-              "ViewState": "AgIAACIAAAAAAAAAAAAWwCoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAA8wEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-08-31T14:43:58.016Z",
               "IsPinned": true,
