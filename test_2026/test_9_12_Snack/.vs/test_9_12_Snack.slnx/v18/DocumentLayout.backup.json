@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|solutionrelative:test_9_12_Snack\\Snack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|solutionrelative:test_9_12_Snack\\Snack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|solutionrelative:test_9_12_Snack\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|solutionrelative:test_9_12_Snack\\Snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|solutionrelative:test_9_12_Snack\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65A12BAF-AFCA-4F4E-BB2A-B96813047680}|test_9_12_Snack\\test_9_12_Snack.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\\u6F14\u793A.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,31 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Snack.h",
-              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snack.h",
-              "RelativeDocumentMoniker": "test_9_12_Snack\\Snack.h",
-              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snack.h",
-              "RelativeToolTip": "test_9_12_Snack\\Snack.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Snake.h",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snake.h",
+              "RelativeDocumentMoniker": "test_9_12_Snack\\Snake.h",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snake.h",
+              "RelativeToolTip": "test_9_12_Snack\\Snake.h",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA8wF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-09-12T07:54:37.994Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Snack.c",
-              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snack.c",
-              "RelativeDocumentMoniker": "test_9_12_Snack\\Snack.c",
-              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snack.c*",
-              "RelativeToolTip": "test_9_12_Snack\\Snack.c*",
-              "ViewState": "AgIAAPsAAAAAAAAAAAA/wAQBAAAdAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Snake.c",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snake.c",
+              "RelativeDocumentMoniker": "test_9_12_Snack\\Snake.c",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\Snake.c",
+              "RelativeToolTip": "test_9_12_Snack\\Snake.c",
+              "ViewState": "AgIAABYBAAAAAAAAAAA0wIEBAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-09-12T07:54:25.703Z",
               "IsPinned": true,
@@ -58,13 +57,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "test.c",
               "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\test.c",
               "RelativeDocumentMoniker": "test_9_12_Snack\\test.c",
               "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_12_Snack\\test_9_12_Snack\\test.c",
               "RelativeToolTip": "test_9_12_Snack\\test.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-09-14T05:37:42.555Z",
               "IsPinned": true,
@@ -80,8 +79,7 @@
               "RelativeToolTip": "test_9_12_Snack\\\u6F14\u793A.c",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-09-14T12:13:37.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T12:13:37.81Z"
             }
           ]
         }

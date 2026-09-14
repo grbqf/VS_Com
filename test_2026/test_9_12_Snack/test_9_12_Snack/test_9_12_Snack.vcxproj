@@ -139,12 +139,12 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Snack.c" />
+    <ClCompile Include="Snake.c" />
     <ClCompile Include="test.c" />
     <ClCompile Include="演示.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Snack.h" />
+    <ClInclude Include="Snake.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
