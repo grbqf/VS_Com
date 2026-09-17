@@ -1,0 +1,4 @@
+﻿  BirnaryTree.c
+D:\Code\VS_Com\test_2026\test_9_17\test_9_17\BirnaryTree.c(10,3): warning C4033: “BTBuyNode”必须返回值
+D:\Code\VS_Com\test_2026\test_9_17\test_9_17\BirnaryTree.c(15,1): warning C4715: “BTBuyNode”: 不是所有的控件路径都返回值
+  test_9_17.vcxproj -> D:\Code\VS_Com\test_2026\test_9_17\x64\Debug\test_9_17.exe
