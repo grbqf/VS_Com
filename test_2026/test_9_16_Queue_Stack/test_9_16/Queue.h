@@ -37,7 +37,7 @@ QDataType QueueFront(Queue* q);
 QDataType QueueBack(Queue* q);
 
 // 检测队列是否为空，如果为空返回非零结果，如果非空返回0 
-int QueueEmpty(Queue* q);
+bool QueueEmpty(Queue* q);
 
 // 销毁队列
 void QueueDestroy(Queue* q);

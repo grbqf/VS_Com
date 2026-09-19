@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code\\VS_Com\\test_2026\\test_9_16\\",
+  "WorkspaceRootPath": "D:\\Code\\VS_Com\\test_2026\\test_9_16_Queue_Stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B48BA4F-0A1C-4367-8759-00F6FB2EF8AF}|test_9_16\\test_9_16.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_16\\test_9_16\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6B48BA4F-0A1C-4367-8759-00F6FB2EF8AF}|test_9_16\\test_9_16.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_16_Queue_Stack\\test_9_16\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B48BA4F-0A1C-4367-8759-00F6FB2EF8AF}|test_9_16\\test_9_16.vcxproj|solutionrelative:test_9_16\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B48BA4F-0A1C-4367-8759-00F6FB2EF8AF}|test_9_16\\test_9_16.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_16_Queue_Stack\\test_9_16\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6B48BA4F-0A1C-4367-8759-00F6FB2EF8AF}|test_9_16\\test_9_16.vcxproj|solutionrelative:test_9_16\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B48BA4F-0A1C-4367-8759-00F6FB2EF8AF}|test_9_16\\test_9_16.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_16\\test_9_16\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6B48BA4F-0A1C-4367-8759-00F6FB2EF8AF}|test_9_16\\test_9_16.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_16_Queue_Stack\\test_9_16\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6B48BA4F-0A1C-4367-8759-00F6FB2EF8AF}|test_9_16\\test_9_16.vcxproj|solutionrelative:test_9_16\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B48BA4F-0A1C-4367-8759-00F6FB2EF8AF}|test_9_16\\test_9_16.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_9_16\\test_9_16\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6B48BA4F-0A1C-4367-8759-00F6FB2EF8AF}|test_9_16\\test_9_16.vcxproj|solutionrelative:test_9_16\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +22,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Queue.h",
-              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_16\\test_9_16\\Queue.h",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_16_Queue_Stack\\test_9_16\\Queue.h",
               "RelativeDocumentMoniker": "test_9_16\\Queue.h",
-              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_16\\test_9_16\\Queue.h",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_16_Queue_Stack\\test_9_16\\Queue.h",
               "RelativeToolTip": "test_9_16\\Queue.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-09-16T11:31:42.55Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Queue.c",
-              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_16\\test_9_16\\Queue.c",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_16_Queue_Stack\\test_9_16\\Queue.c",
               "RelativeDocumentMoniker": "test_9_16\\Queue.c",
-              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_16\\test_9_16\\Queue.c",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_16_Queue_Stack\\test_9_16\\Queue.c",
               "RelativeToolTip": "test_9_16\\Queue.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -53,16 +54,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "test.c",
-              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_16\\test_9_16\\test.c",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_9_16_Queue_Stack\\test_9_16\\test.c",
               "RelativeDocumentMoniker": "test_9_16\\test.c",
-              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_16\\test_9_16\\test.c",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_9_16_Queue_Stack\\test_9_16\\test.c",
               "RelativeToolTip": "test_9_16\\test.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-09-16T04:00:24.74Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             }
           ]
         }
