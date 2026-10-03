@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VS_Com\\test_2026\\test_10_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2177D2-0110-408B-9023-CD9238B95AB7}|test_10_3\\test_10_3.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_10_3\\test_10_3\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA2177D2-0110-408B-9023-CD9238B95AB7}|test_10_3\\test_10_3.vcxproj|solutionrelative:test_10_3\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2177D2-0110-408B-9023-CD9238B95AB7}|test_10_3\\test_10_3.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_10_3\\test_10_3\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA2177D2-0110-408B-9023-CD9238B95AB7}|test_10_3\\test_10_3.vcxproj|solutionrelative:test_10_3\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_10_3\\test_10_3\\test.c",
+              "RelativeDocumentMoniker": "test_10_3\\test.c",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_10_3\\test_10_3\\test.c",
+              "RelativeToolTip": "test_10_3\\test.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-03T10:09:51.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_10_3\\test_10_3\\test.cpp",
+              "RelativeDocumentMoniker": "test_10_3\\test.cpp",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_10_3\\test_10_3\\test.cpp",
+              "RelativeToolTip": "test_10_3\\test.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-03T04:34:38.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
