@@ -9,7 +9,7 @@ class Date
 	friend istream& operator>>(istream& in, Date& d); 
 public:
 	Date(int year = 2005, int month = 9, int day = 8);
-	void print();
+	void print() const;
 	Date(const Date& d);
 		
 	int GetMonthDay(int year, int month)

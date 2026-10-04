@@ -14,7 +14,7 @@ Date::Date(const Date& d)
 	this->_month = d._month;
 	this->_day = d._day;
 }
-void Date::print()
+void Date::print() const 
 {
 	cout << _year << "/" << _month << "/" << _day << endl;
 }

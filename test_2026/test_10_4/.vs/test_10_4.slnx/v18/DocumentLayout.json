@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VS_Com\\test_2026\\test_10_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5EC54-DC44-43E9-8E74-4F8565C3D840}|test_10_4\\test_10_4.vcxproj|D:\\Code\\VS_Com\\test_2026\\test_10_4\\test_10_4\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31C5EC54-DC44-43E9-8E74-4F8565C3D840}|test_10_4\\test_10_4.vcxproj|solutionrelative:test_10_4\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\Code\\VS_Com\\test_2026\\test_10_4\\test_10_4\\test.cpp",
+              "RelativeDocumentMoniker": "test_10_4\\test.cpp",
+              "ToolTip": "D:\\Code\\VS_Com\\test_2026\\test_10_4\\test_10_4\\test.cpp",
+              "RelativeToolTip": "test_10_4\\test.cpp",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAAAEBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T05:09:50.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
