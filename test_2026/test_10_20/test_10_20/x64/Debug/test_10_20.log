@@ -1,0 +1,63 @@
+﻿  test.cpp
+D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,50): error C2676: 二进制“-”:“const std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”不定义该运算符或到预定义运算符可接收的类型的转换
+D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,50): error C2676:         with
+D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,50): error C2676:         [
+D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,50): error C2676:             _Ty=int
+D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,50): error C2676:         ]
+  (编译源文件“test.cpp”)
+      D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\xutility(4711,30):
+      可能是“unknown-type std::operator -(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)”
+          D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,43):
+          “unknown-type std::operator -(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)”: 无法从“const std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”推导出“const std::move_iterator<_Iter> &”的 模板 参数
+          with
+          [
+              _Ty=int
+          ]
+      D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\xutility(2176,30):
+      或    “unknown-type std::operator -(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)”
+          D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,43):
+          “unknown-type std::operator -(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)”: 无法从“const std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”推导出“const std::reverse_iterator<_BidIt> &”的 模板 参数
+          with
+          [
+              _Ty=int
+          ]
+      D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\xutility(2176,30):
+      或    “unknown-type std::operator -(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)”
+          D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,43):
+          “unknown-type std::operator -(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)”: 无法从“const std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”推导出“const std::reverse_iterator<_BidIt> &”的 模板 参数
+          with
+          [
+              _Ty=int
+          ]
+      D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\xutility(4711,30):
+      或    “unknown-type std::operator -(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)”
+          D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,43):
+          “unknown-type std::operator -(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)”: 无法从“const std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”推导出“const std::move_iterator<_Iter> &”的 模板 参数
+          with
+          [
+              _Ty=int
+          ]
+      D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,50):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\Code\VS_Com\test_2026\test_10_20\test_10_20\test.cpp(89,2):
+          查看对正在编译的函数 模板 实例化“void std::sort<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>>(const _RanIt,const _RanIt)”的引用
+          with
+          [
+              _Ty=int,
+              _RanIt=std::_List_iterator<std::_List_val<std::_List_simple_types<int>>>
+          ]
+          D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9090,10):
+          查看对正在编译的函数 模板 实例化“void std::sort<_RanIt,std::less<void>>(const _RanIt,const _RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=std::_List_iterator<std::_List_val<std::_List_simple_types<int>>>,
+              _Pr=std::less<void>
+          ]
+  
+D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,10): error C2672: “std::_Sort_unchecked”: 未找到匹配的重载函数
+  (编译源文件“test.cpp”)
+      D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9051,19):
+      可能是“void std::_Sort_unchecked(_RanIt,_RanIt,conditional_t<std::_Is_from_primary<std::iterator_traits<remove_cv<remove_reference<_Ty>::type>::type>>,std::incrementable_traits<remove_cv<remove_reference<_Ty>::type>::type>,std::iterator_traits<remove_cv<remove_reference<_Ty>::type>::type>>::difference_type,_Pr)”
+          D:\Apps\VS_Community\2026\VC\Tools\MSVC\14.51.36231\include\algorithm(9085,10):
+          “void std::_Sort_unchecked(_RanIt,_RanIt,conditional_t<std::_Is_from_primary<std::iterator_traits<remove_cv<remove_reference<_Ty>::type>::type>>,std::incrementable_traits<remove_cv<remove_reference<_Ty>::type>::type>,std::iterator_traits<remove_cv<remove_reference<_Ty>::type>::type>>::difference_type,_Pr)”: 应输入 4 个参数，却提供了 3 个
+  

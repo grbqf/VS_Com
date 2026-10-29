@@ -142,7 +142,7 @@ namespace shg
 	}
 
 	//123456|789
-	string string::substr(size_t pos = 0, size_t len)
+	string string::substr(size_t pos, size_t len)
 	{
 		assert(pos < _size);
 		if (len > _size - pos)
@@ -229,9 +229,3 @@ namespace shg
 	}
 }
 
-int main()
-{
-
-
-	return 0;
-}
